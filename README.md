@@ -1,5 +1,5 @@
 # leam_historical_and_forecast.github.io
-leam_historical_and_forecast.github.io
+https://hanjinda.github.io/leam_historical_and_forecast.github.io/
 
 ## Steps
 - unzip leam_historical_and_forecast.github.io.zip
